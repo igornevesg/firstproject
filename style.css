@@ -12,10 +12,12 @@ h2 {
 text-align: center;
 font-size: 1.5em;
 transform:translate(0px, -25px);
+}
 
 p {
 text-align: center;
-font-size: 1em;
+font-size: 0.75em;
+color:hsl(229, 6%, 66%)
 }
 
 #light {
