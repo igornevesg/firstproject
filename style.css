@@ -21,6 +21,31 @@ font-size: 1.5em;
 transform:translate(0px, -25px);
 }
 
+h3 {
+font-size: 1.25em;
+margin: 0px;
+}
+
+h4 {
+font-size: 1.25em;
+margin: 0px;
+}
+
+h5 {
+font-size: 1.25em;
+vertical-align: top;
+margin: 0px;
+}
+
+h6 {
+font-size: 1.25em;
+margin: 0px;
+}
+
+span {
+font-size: 0.75em;s
+}
+
 p {
 text-align: center;
 font-size: 0.75em;
